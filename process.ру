@@ -1,2 +1,2 @@
 import pandas as pd
-import geopandas as gpds
+import geopandas as gpd
