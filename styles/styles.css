@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 header{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	background: #008f53;
+	background: #a8a8a8;
     height: 50px;
 	width: 100%;
 	position: fixed;
@@ -63,8 +63,9 @@ body{
 }
 
 .panorama {	
-	background-color: #bea885;
+	background-color: #cecece;
 	height: 700px;
+    margin-bottom: 50px;
 }
 
 .rows {
@@ -76,10 +77,11 @@ body{
 .row_1 {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     display: flex;
+    margin-bottom: 30px;
 }
 
 .block_1 {	
-	background-color: #8a8aaa;
+	background-color: #6b6b6b;
 	height: 200px;
 	width: 200px;
     border-radius: 100px;
@@ -89,7 +91,7 @@ body{
     position: relative
 }
 .block_2 {	
-	background-color: #f0ffaf;
+	background-color: #6b6b6b;
     height: 200px;
 	width: 200px;
     border-radius: 100px;
@@ -102,9 +104,10 @@ body{
 .row_2 {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     display: flex;
+    margin-bottom: 30px;
 }
 .block_3 {	
-	background-color: #f0ffaf;
+	background-color: #6b6b6b;
     height: 200px;
 	width: 200px;
     border-radius: 100px;
@@ -114,7 +117,7 @@ body{
     position: relative
 }
 .block_4 {	
-	background-color: #f0ffaf;
+	background-color: #6b6b6b;
     height: 200px;
 	width: 200px;
     border-radius: 100px;
@@ -127,7 +130,7 @@ body{
 
 footer{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	background: #87d187;
+	background: #9c9c9c;
     height: 100px;
 }
 
