@@ -73,7 +73,6 @@ body{
 .rows {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     display: flexbox
-    justify-content:flexbox
 }
 
 .row_1 {
