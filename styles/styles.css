@@ -74,6 +74,10 @@ body{
 	margin-top: 100px;
     margin-bottom: 50px;
 }
+.description{
+	font-size: 14px;
+	height: 60px;	
+}
 .example-img {
     width: 100%;
 }
